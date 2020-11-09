@@ -73,7 +73,7 @@ Click on "Connect my wallet". You will be prompted by PolkadotJS to authorize Yi
 ### Getting Started
 - Clone the repository:
 	```bash
-	git clone https://github.com/nblogist/yieldscan-frontend
+	git clone https://github.com/edgeware-builders/yieldscan-frontend
 	```
 - Install the dependencies:
 	```bash
@@ -99,7 +99,7 @@ Click on "Connect my wallet". You will be prompted by PolkadotJS to authorize Yi
 	SENTRY_PROJECT=<your-sentry-project>
 	SENTRY_AUTH_TOKEN=<your-sentry-auth-token>
 	```
-	Note: You can checkout the backend codebase [here](https://github.com/nblogist/yieldscan-backend-ts).
+	Note: You can checkout the backend codebase [here](https://github.com/edgeware-builders/yieldscan-backend-ts).
 	
 	Useful resources:
 	
@@ -148,7 +148,7 @@ Please submit pull requests to us using the format described while making a pull
 
 * **Furqan Ahmed** - Edgeware Integration - [Contact](https://www.flow.page/FurqanAhmed)
 
-See also the list of [contributors](https://github.com/nblogist/yieldscan-frontend/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/edgeware-builders/yieldscan-frontend/contributors) who participated in this project.
 
 ## Acknowledgments
 
